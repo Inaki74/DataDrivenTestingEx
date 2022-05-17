@@ -10,3 +10,15 @@
 /Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/Debug/net6.0/refint/DataDrivenTestingExample.dll
 /Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.pdb
 /Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/Debug/net6.0/ref/DataDrivenTestingExample.dll
+/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/bin/Debug/net6.0/DataDrivenTestingExample.deps.json
+/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/bin/Debug/net6.0/DataDrivenTestingExample.dll
+/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/bin/Debug/net6.0/DataDrivenTestingExample.pdb
+/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.csproj.AssemblyReference.cache
+/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.AssemblyInfoInputs.cache
+/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.AssemblyInfo.cs
+/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.csproj.CoreCompileInputs.cache
+/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.dll
+/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/obj/Debug/net6.0/refint/DataDrivenTestingExample.dll
+/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.pdb
+/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/obj/Debug/net6.0/ref/DataDrivenTestingExample.dll

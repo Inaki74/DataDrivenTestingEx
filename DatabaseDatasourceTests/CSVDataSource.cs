@@ -44,7 +44,7 @@ namespace CSVDatasourceTests
         {
             if (data != null)
             {
-                return String.Format(CultureInfo.CurrentCulture, "{0} - first number: {1}, second number: {2}", methodInfo.Name, data[0], data[1]);
+                return String.Format(CultureInfo.CurrentCulture, "{0} - Expected {1} - first number: {2}, second number: {3}", methodInfo.Name, data[0], data[1], data[2]);
             }
 
             return null;

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/DataDrivenTestingExample.csproj": {}
+    "/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/DataDrivenTestingExample.csproj": {}
   },
   "projects": {
-    "/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/DataDrivenTestingExample.csproj": {
+    "/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/DataDrivenTestingExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/DataDrivenTestingExample.csproj",
+        "projectUniqueName": "/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/DataDrivenTestingExample.csproj",
         "projectName": "DataDrivenTestingExample",
-        "projectPath": "/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/DataDrivenTestingExample.csproj",
-        "packagesPath": "/Users/sleepy/.nuget/packages/",
-        "outputPath": "/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/",
+        "projectPath": "/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/DataDrivenTestingExample.csproj",
+        "packagesPath": "/Users/matiasgonzalez/.nuget/packages/",
+        "outputPath": "/Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/DataDrivenTestingExample/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sleepy/.nuget/NuGet/NuGet.Config"
+          "/Users/matiasgonzalez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/matiasgonzalez/.dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NormalCalculatorTests
-build_property.ProjectDir = /Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/NormalCalculatorTests/
+build_property.ProjectDir = /Users/matiasgonzalez/Desktop/ORT/Semestre 7/Ingenieria de Software Agil 2/Presentacion/DataDrivenTestingEx/NormalCalculatorTests/
