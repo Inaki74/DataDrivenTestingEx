@@ -1,0 +1,12 @@
+/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/bin/Debug/net6.0/DataDrivenTestingExample.deps.json
+/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/bin/Debug/net6.0/DataDrivenTestingExample.dll
+/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/bin/Debug/net6.0/DataDrivenTestingExample.pdb
+/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.csproj.AssemblyReference.cache
+/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.AssemblyInfoInputs.cache
+/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.AssemblyInfo.cs
+/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.csproj.CoreCompileInputs.cache
+/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.dll
+/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/Debug/net6.0/refint/DataDrivenTestingExample.dll
+/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/Debug/net6.0/DataDrivenTestingExample.pdb
+/Users/sleepy/Documents/ORT/Semestre_7/ISA2/Repositories/DataDrivenTestingExample/DataDrivenTestingExample/obj/Debug/net6.0/ref/DataDrivenTestingExample.dll

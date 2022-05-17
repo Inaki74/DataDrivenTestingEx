@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NormalCalculatorTests", "No
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVDatasourceTests", "DatabaseDatasourceTests\CSVDatasourceTests.csproj", "{FB493C4C-28A5-4F41-9076-5FE1B80978E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDrivenTestingExample", "DataDrivenTestingExample\DataDrivenTestingExample.csproj", "{0956C0E7-F98D-4760-9EED-1563F46FD389}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FB493C4C-28A5-4F41-9076-5FE1B80978E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB493C4C-28A5-4F41-9076-5FE1B80978E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB493C4C-28A5-4F41-9076-5FE1B80978E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0956C0E7-F98D-4760-9EED-1563F46FD389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0956C0E7-F98D-4760-9EED-1563F46FD389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0956C0E7-F98D-4760-9EED-1563F46FD389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0956C0E7-F98D-4760-9EED-1563F46FD389}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
