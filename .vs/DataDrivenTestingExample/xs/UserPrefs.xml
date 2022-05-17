@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{E600C296-D709-4DBA-87FB-8E11D5FDF842}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatabaseDatasourceTests/CSVDataSource.cs">
+    <Files>
+      <File FileName="DatabaseDatasourceTests/Usings.cs" Line="1" Column="51" />
+      <File FileName="DatabaseDatasourceTests/CSVDataSource.cs" Line="25" Column="18" />
+      <File FileName="DatabaseDatasourceTests/CSVDatasourceCalculatorTests.cs" Line="11" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataDrivenTestingExample" expanded="True">
+            <Node name="CSVDatasourceTests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="DataDrivenTestingExample" expanded="True" />
+            <Node name="NormalCalculatorTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DataDrivenTestingExample" expanded="True" selected="True">
+            <Node name="CSVDatasourceTests" expanded="True">
+              <Node name="CSVDatasourceTests" expanded="True">
+                <Node name="CSVDatasourceCalculatorTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NormalCalculatorTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
