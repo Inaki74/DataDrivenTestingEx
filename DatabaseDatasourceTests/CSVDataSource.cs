@@ -23,7 +23,7 @@ namespace CSVDatasourceTests
                 bool firstRun = true;
                 while (!parser.EndOfData)
                 {
-                    //Process rowaa
+                    //Process row
                     string[] fields = parser.ReadFields();
 
                     if (!firstRun)
